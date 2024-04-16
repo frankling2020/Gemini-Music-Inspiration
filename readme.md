@@ -10,4 +10,4 @@ It provides idea for creating new songs.
 - [x] Support audio and figure as inputs and display
 - [x] Support markdown display and copy to clipboard
 
-Simple demo: https://frankling2020-gemini-music-creator.streamlit.app
+Simple demo: https://frankling2020-gemini-music-inspiration.streamlit.app

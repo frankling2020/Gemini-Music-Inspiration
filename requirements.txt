@@ -1,0 +1,13 @@
+# python 3.10
+# install timidity in the system
+beautifulsoup4
+google-generativeai
+musicpy
+numpy
+pandas
+protobuf
+pyperclip
+Requests
+scikit-learn
+streamlit
+watchdog
